@@ -1,4 +1,4 @@
-# Flutter-Course-Resources
+# Flutter Training Resources For Newbies Flutter App Developer
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
